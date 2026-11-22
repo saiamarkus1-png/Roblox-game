@@ -1,0 +1,23 @@
+{
+  "name": "StudioHub",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "StudioHub": {
+        "$path": "src/shared"
+      }
+    },
+    "ServerScriptService": {
+      "StudioHub": {
+        "$path": "src/server"
+      }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "StudioHub": {
+          "$path": "src/client"
+        }
+      }
+    }
+  }
+}
